@@ -1,5 +1,16 @@
 export const projects = [
   {
+    id: "polaku",
+    name: "PolaKu",
+    role: "Mobile Developer",
+    size: "large",
+    problem: "Banyak orang kesulitan memahami dan memperbaiki pola hidup mereka karena tidak ada sistem tracking yang personal dan memberikan insight bermakna.",
+    solution: "Aplikasi mobile lifestyle pattern tracker dibangun dalam 30 jam di Garuda Hacks 7.0. Saya mengerjakan Home screen, Insight screen (pipeline LLM via Cloud Functions + Groq API), dan Profile screen. Data disimpan di Firebase Firestore dengan arsitektur Expo Router SDK 57.",
+    result: "Berhasil submit sebagai bagian dari 159 tim dari 600++ peserta. Pipeline AI daily insight berjalan end-to-end dari Firestore ke Groq API.",
+    tech: ["Expo", "React Native", "Firebase", "Groq API", "TypeScript"],
+    link: "",
+  },
+  {
     id: "findfutsall",
     name: "FindFutsall",
     role: "Lead Developer",
@@ -14,7 +25,7 @@ export const projects = [
     id: "ourkost",
     name: "OurKost",
     role: "Project Manager / Initiator",
-    size: "large",
+    size: "small",
     problem: "Pencari kos di sekitar kampus kesulitan membandingkan opsi dan menghubungi pemilik kos secara efisien.",
     solution: "Menginisiasi dan memimpin pengembangan platform pencarian serta manajemen kos berbasis Laravel, mulai dari ide awal hingga menyusun struktur tim pengembangan.",
     result: "Platform dalam tahap pengembangan aktif, dengan fitur pencarian dan manajemen kos sebagai fokus utama rilis pertama.",

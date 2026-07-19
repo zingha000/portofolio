@@ -1,13 +1,13 @@
 export const experience = [
   {
-    title: "Peserta Hackathon",
+    title: "Finalis Hackathon",
     org: "Garuda Hacks 7.0",
     year: "2026",
-    description: "Mengikuti hackathon nasional, membangun solusi dalam waktu terbatas bersama tim.",
-    achievement: "Selesai develop & submit dalam timeline ketat",
+    description: "Membangun aplikasi PolaKu (lifestyle pattern tracker) dalam 30 jam bersama tim 3 orang, dengan tema Health.",
+    achievement: "Masuk jajaran 159 dari 600++ peserta yang berhasil submit",
   },
   {
-    title: "Project Manager",
+    title: "Project Manager / Initiator",
     org: "OurKost",
     year: "2026",
     description: "Memimpin dan memformalisasi struktur tim untuk platform pencarian kos.",
