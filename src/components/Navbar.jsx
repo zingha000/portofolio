@@ -51,7 +51,7 @@ export default function Navbar() {
     <nav className={navOuterClass}>
       <div className={navInnerClass}>
         <div className={logoWrapClass}>
-          <img src="/logo.webp" alt="Logo" className={logoImgClass} />
+          <img src="logo.webp" alt="Logo" className={logoImgClass} />
         </div>
 
         <div className={menuWrapClass}>

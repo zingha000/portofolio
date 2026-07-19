@@ -81,11 +81,11 @@ export default function Hero() {
             <div className={cardClass}>
               <div className={cardRowClass}>
                 <p className={cardLabelClass}>Focus</p>
-                <p className={cardValueClass}>OurKost & FindFutsall</p>
+                <p className={cardValueClass}>Magang/Project starup</p>
               </div>
               <div className={cardRowClass}>
                 <p className={cardLabelClass}>Stack</p>
-                <p className={cardValueClass}>Kotlin, Laravel, MySQL</p>
+                <p className={cardValueClass}>React, PHP, Javascript</p>
               </div>
               <div className={cardRowClass}>
                 <p className={cardLabelClass}>Experience</p>
